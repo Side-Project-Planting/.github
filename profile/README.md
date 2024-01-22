@@ -9,4 +9,4 @@
 # 기술 스택
 
 # 아키텍처
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/decd2863-b1e7-40c9-a99e-818f1fdaf9e3/e1eff468-7ed3-4888-b981-cde478fc90f9/Untitled.png)
+![image](https://github.com/Side-Project-Planting/.github/assets/73357200/2a07ca77-103c-4d60-8ded-70bfe9572e4b)
