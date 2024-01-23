@@ -1,14 +1,29 @@
-# **TODO**
+# Planting
+## 프로젝트 소개
 
-[배포 링크](https://plant-ing.vercel.app/)
+Planting은 단순히 프로젝트를 관리하는 도구를 넘어 협업의 즐거움과 아이디어의 발전시키는 플랫폼입니다.
 
-# 소개
+씨앗을 심어 성장 시키듯이 Planting은 협업과 작업 관리를 즐겁게 이끌어가고 프로젝트를 키워나갈 수 있도록 디자인 되었습니다.
 
-# 기능
+함께 심어 나가고, 서로에게 영감을 주며, 결실을 맺어나가는 과정을 Planting과 함께 즐겨보세요!
 
-# 기술 스택
+[🌱 Planting 바로가기](https://plant-ing.vercel.app/)
 
-# 아키텍처
-![image](https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa)
+## 프로젝트 기능
 
-<img src="https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa" width="200" height="400"/>
+#### 📋 심플한 칸반보드로 즐거운 작업 관리
+- 쉽게 작업을 만들고, 할당하며 추적할 수 있어요. 
+- 사용자 정의 가능한 라벨로 작업을 개성있게 분류해요.
+
+#### 📂 프로젝트 전용 작업 공간
+- 각 프로젝트마다 전용 작업 공간을 만들어서 진행 상황을 관리해요.
+- 팀원들을 초대해 즐겁게 협업을 진행해봐요.
+
+#### ⏱️ 실시간 업데이트
+- 작업의 변경 사항이 실시간으로 업데이트 되어 놓치는 일이 없을 거에요.
+
+#### 👀 나만의 대시 보드로 핵심 현황을 한눈에
+- 각 프로젝트에 대한 내 작업들만 모아 보여줘서 한눈에 파악할 수 있어요.
+
+## 아키텍처
+<img src="https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa"/>
