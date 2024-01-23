@@ -11,3 +11,4 @@
 # 아키텍처
 ![image](https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa)
 
+<img src="https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa" width="200" height="400"/>
