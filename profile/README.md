@@ -26,4 +26,4 @@ Planting은 단순히 프로젝트를 관리하는 도구를 넘어 협업의 �
 - 각 프로젝트에 대한 내 작업들만 모아 보여줘서 한눈에 파악할 수 있어요.
 
 ## 아키텍처
-<img src="https://github.com/Side-Project-Planting/.github/assets/73357200/c613393a-bb55-46c8-bbf7-2628e856d6fa"/>
+![image](https://github.com/Side-Project-Planting/.github/assets/73357200/34d6bb29-441c-456c-831e-7df472811617)
