@@ -8,6 +8,7 @@ Planting은 단순히 프로젝트를 관리하는 도구를 넘어 협업의 �
 함께 심어 나가고, 서로에게 영감을 주며, 결실을 맺어나가는 과정을 Planting과 함께 즐겨보세요!
 
 [🌱 Planting 바로가기](https://plant-ing.vercel.app/)
+![플랜_칸반](https://github.com/Side-Project-Planting/Frontend/assets/62870362/4da28572-ec81-4c43-962b-91e165daa6f4)
 
 ## 프로젝트 기능
 
